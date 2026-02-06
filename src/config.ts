@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Renzprjkt",
-	subtitle: "RenzAlt-Nightcord.de",
+	title: "超-kaguyahime!",
+	subtitle: "",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 360, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/kanadeAlt", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/kaguyahimeAlt", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -53,13 +53,13 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "RenzAlt",
+	name: "超-kaguyahime!",
 	bio: "likes cute and kawaii things <3",
 	links: [
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/kanadeAlt",
+			url: "https://github.com/kaguyahimeAlt",
 		},
 	],
 };
