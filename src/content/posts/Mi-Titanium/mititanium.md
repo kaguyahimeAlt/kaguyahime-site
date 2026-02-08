@@ -203,7 +203,7 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 
 ## Building
 
-Use the following `local_manifests.xml` to sync OPPO Thortanium projects on `lineage-21` branch:
+Use the following `local_manifests.xml` to sync Mi-Titanium projects on `lineage-23.2` branch:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
