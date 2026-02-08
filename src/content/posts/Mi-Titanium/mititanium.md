@@ -169,11 +169,15 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 </div>
 
 #### Notes
-<sup>1</sup> `YSL` DT2W is not supported on GT917D touchscreen, because the touchscreen is not working yet (have not found any users of this touchscreen)
+Y = working
+P = Partial
+N = Broken
 
-<sup>2</sup> `Vince` The camera is fully functional only on Sony IMX486, while ov12a10 is partial due to ISP/VFE issues in JPEG mode (preview and snapshot are duplicated), RAW mode is fine.
+<sup>p1</sup> `YSL` DT2W is not supported on GT917D touchscreen, because the touchscreen is not working yet (have not found any users of this touchscreen)
 
-<sup>3</sup> `YSL` only ft5446 touchscreen is supported, GT917D touchscreen is not added
+<sup>p2</sup> `Vince` The camera is fully functional only on Sony IMX486, while ov12a10 is partial due to ISP/VFE issues in JPEG mode (preview and snapshot are duplicated), RAW mode is fine.
+
+<sup>p3</sup> `YSL` only ft5446 touchscreen is supported, GT917D touchscreen is not added
 
 ## Available downloads
 ### Redmi 5 Plus (Vince)
