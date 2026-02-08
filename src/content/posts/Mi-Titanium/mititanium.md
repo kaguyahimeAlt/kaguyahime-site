@@ -15,8 +15,8 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 * Redmi 5 Plus (Vince)
 * Redmi S2/Y2 (YSL)
 * Mi Max 2 (Oxygen)
-* Mi 5X (Tiffany) "not supported now"
-* Redmi 4 Prime (Markw) "not supported now"
+* Mi 5X (Tiffany)
+* Redmi 4 Prime (Markw)
 
 ### Downstream Android Kernel 4.19
 <div class="full-width">
