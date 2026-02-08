@@ -15,6 +15,8 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 * Redmi 5 Plus (Vince)
 * Redmi S2/Y2 (YSL)
 * Mi Max 2 (Oxygen)
+* Mi 5X (Tiffany) "not supported now"
+* Redmi 4 Prime (Markw) "not supported now"
 
 ### Downstream Android Kernel 4.19
 <div class="full-width">
@@ -200,6 +202,17 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 #### ROMs
 * `A14` [LineageOS 21.0](https://t.me/Max2Rom/161) <sup>`unofficial`</sup> <sup>`k4.19`</sup>
 * `A13` [LineageOS 20.0](https://t.me/Max2Rom/145) <sup>`unofficial`</sup> <sup>`k4.19`</sup>
+
+### Mi 5X (Tiffany) "not supported now"
+#### ROMs
+* `A13` [LineageOS 20.0](https://t.me/renzalt_dump/29) <sup>`unofficial`</sup> <sup>`k4.9`</sup>
+
+#### Recovery
+* `TWRP` [TeamWin Recovery Project](https://t.me/renzalt_dump/28) <sup>`unofficial`</sup> <sup>`k3.18`</sup> <sup>`k4.9`</sup>
+
+### Redmi 4 Prime (Markw) "not supported now"
+#### ROMs
+* `A13` [LineageOS 20.0](https://t.me/renzalt_dump/13) <sup>`unofficial`</sup> <sup>`k4.9`</sup>
 
 ## Building
 
