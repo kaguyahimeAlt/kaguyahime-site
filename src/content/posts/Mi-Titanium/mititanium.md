@@ -62,13 +62,13 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
             <td class="done">Y</td>
         </tr>
         <tr>
-            <td>Modem<sup>3</sup></td>
+            <td>Modem</td>
             <td class="done">Y</td>
             <td class="done">Y</td>
             <td class="done">Y</td>
         </tr>
         <tr>
-            <td>GNSS<sup>4</sup></td>
+            <td>GNSS</td>
             <td class="done">Y</td>
             <td class="done">Y</td>
             <td class="done">Y</td>
