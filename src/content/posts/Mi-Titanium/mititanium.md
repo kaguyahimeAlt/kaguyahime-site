@@ -170,7 +170,9 @@ This page contains information for the **Xiaomi Titanium device**, which uses th
 
 #### Notes
 Y = working
+
 P = Partial
+
 N = Broken
 
 <sup>p1</sup> `YSL` DT2W is not supported on GT917D touchscreen, because the touchscreen is not working yet (have not found any users of this touchscreen)
